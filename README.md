@@ -1,5 +1,5 @@
-# NetherMC Network
-The public repository for NetherMC Network, where you can open bugs and look at beta builds and ideas!
+# ShadowCraft
+The public repository for ShadowCraft, where you can open bugs and look at beta builds and ideas!
 
 
 Hiya! This is a place to report bugs and issues with the server. THIS IS NOT FOR HELP OR ADVICE! 
